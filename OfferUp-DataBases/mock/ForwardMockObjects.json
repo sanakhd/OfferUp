@@ -1,0 +1,34 @@
+[
+  {
+    "itemId": "6400fe3979c9d8940f44c14d",
+    "auctionType": "FORWARD",
+    "highestBidderUserId": "",
+    "highestBid": 10.5,
+    "initialPrice": 5.5,
+    "startTimeOfAuction": "2023-03-05-10:00",
+    "endTimeOfAuction": "2023-03-07-15:00",
+    "auctionEnded": false
+  },
+
+  {
+    "itemId": "6400fe7e79c9d8940f44c150",
+    "auctionType": "FORWARD",
+    "highestBidderUserId": "",
+    "highestBid": 7.8,
+    "initialPrice": 3.5,
+    "startTimeOfAuction": "2023-03-04-09:00",
+    "endTimeOfAuction": "2023-03-06-12:00",
+    "auctionEnded": false
+  },
+
+  {
+    "itemId": "6402368ca0cfee8e4eb44f1f",
+    "auctionType": "FORWARD",
+    "highestBidderUserId": "",
+    "highestBid": 15.2,
+    "initialPrice": 10.5,
+    "startTimeOfAuction": "2023-03-07-14:00",
+    "endTimeOfAuction": "2023-03-09-17:00",
+    "auctionEnded": false
+  }
+]

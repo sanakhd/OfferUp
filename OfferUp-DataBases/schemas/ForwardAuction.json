@@ -1,0 +1,12 @@
+{
+
+    "itemId": "some-itemId",
+    "auctionType": "FORWARD",
+    "highestBidderUserId": "some-highestBidderUserId",
+    "highestBid": 2.5,
+    "initialPrice": 1.5,
+    "startTimeOfAuction": "YYYY-MM-DD-HH:MM",
+    "endTimeOfAuction": "YYYY-MM-DD-HH:MM",
+    "auctionEnded": false
+
+}

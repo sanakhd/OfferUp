@@ -1,0 +1,81 @@
+[
+  {
+    "itemName": "Wireless Headphones",
+    "description": "Bluetooth headphones with noise-cancelling feature.",
+    "itemSold": false,
+    "shippingOptions": [
+      {
+        "fee": 50.0,
+        "minDays": 3,
+        "maxDays": 5,
+        "type": "REGULAR"
+      },
+      {
+        "fee": 100.0,
+        "minDays": 1,
+        "maxDays": 2,
+        "type": "EXPEDITED"
+      }
+    ]
+  },
+
+  {
+    "itemName": "Men's Running Shoes",
+    "description": "Comfortable and breathable running shoes for men.",
+    "itemSold": false,
+    "shippingOptions": [
+      {
+        "fee": 30.0,
+        "minDays": 4,
+        "maxDays": 6,
+        "type": "REGULAR"
+      },
+      {
+        "fee": 60.0,
+        "minDays": 2,
+        "maxDays": 3,
+        "type": "EXPEDITED"
+      }
+    ]
+  },
+
+  {
+    "itemName": "Gaming Mouse",
+    "description": "High-precision gaming mouse with customizable buttons.",
+    "itemSold": false,
+    "shippingOptions": [
+      {
+        "fee": 25.0,
+        "minDays": 3,
+        "maxDays": 5,
+        "type": "REGULAR"
+      },
+      {
+        "fee": 50.0,
+        "minDays": 1,
+        "maxDays": 2,
+        "type": "EXPEDITED"
+      }
+    ]
+  },
+
+  {
+    "itemName": "Smartphone Stand",
+    "description": "Adjustable stand for smartphones with non-slip design.",
+    "itemSold": false,
+    "shippingOptions": [
+      {
+        "fee": 15.0,
+        "minDays": 2,
+        "maxDays": 4,
+        "type": "REGULAR"
+      },
+      {
+        "fee": 30.0,
+        "minDays": 1,
+        "maxDays": 2,
+        "type": "EXPEDITED"
+      }
+    ]
+  }
+]

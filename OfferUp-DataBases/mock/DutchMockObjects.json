@@ -1,0 +1,35 @@
+[{
+    "itemId": "6402368ca0cfee8e4eb44f20",
+    "auctionType": "DUTCH",
+    "initialPrice": 10.5,
+    "currentPrice": 7.5,
+    "minimumPrice": 3.5,
+    "startTimeOfAuction": "2023-03-05-10:00",
+    "endTimeOfAuction": "2023-03-07-15:00",
+    "decrement": 1,
+    "auctionEnded": false
+    },
+    
+    {
+    "itemId": "6402368ca0cfee8e4eb44f21",
+    "auctionType": "DUTCH",
+    "initialPrice": 7.8,
+    "currentPrice": 5.8,
+    "minimumPrice": 2.0,
+    "startTimeOfAuction": "2023-03-04-09:00",
+    "endTimeOfAuction": "2023-03-06-12:00",
+    "decrement": 1,
+    "auctionEnded": false
+    },
+    
+    {
+    "itemId": "6402368ca0cfee8e4eb44f22",
+    "auctionType": "DUTCH",
+    "initialPrice": 15.2,
+    "currentPrice": 12.2,
+    "minimumPrice": 8.5,
+    "startTimeOfAuction": "2023-03-07-14:00",
+    "endTimeOfAuction": "2023-03-09-17:00",
+    "decrement": 1,
+    "auctionEnded": false
+    }]

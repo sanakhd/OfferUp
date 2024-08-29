@@ -1,0 +1,5 @@
+AuctionDB:
+URL: mongosh "mongodb+srv://offerup.b7iocrw.mongodb.net/offerup" --apiVersion 1 --username offerup
+Username: offerup
+Password: sToG7YJd9f8ZADP6
+RESTORE Command: mongorestore --uri mongodb+srv://offerup:sToG7YJd9f8ZADP6@offerup.b7iocrw.mongodb.net 

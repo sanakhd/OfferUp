@@ -1,0 +1,14 @@
+{
+    "email": "pouya@york",
+    "password": "pass",
+    "username": "test",
+    "firstName": "pouya",
+    "lastName": "sameni",
+    "address": {
+        "address": "11 No where rd",
+        "country": "Canada",
+        "postalCode": "A1B2C3",
+        "province": "Ontario",
+        "city": "Toronto"
+    }
+}

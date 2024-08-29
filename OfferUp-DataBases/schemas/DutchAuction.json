@@ -1,0 +1,11 @@
+{
+    "itemId": "some-itemId",
+    "auctionType": "DUTCH",
+    "initialPrice": 5.5,
+    "currentPrice": 3.5,
+    "minimumPrice": 1.5,
+    "startTimeOfAuction": "YYYY-MM-DD-HH:MM",
+    "endTimeOfAuction": "YYYY-MM-DD-HH:MM",
+    "decrement": 1,
+    "auctionEnded": false
+}
